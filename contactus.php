@@ -11,7 +11,7 @@
     </head>
     <body>
         <header>
-            <img src="images/logo2.jpg" alt="SWT" width="150" height="150">
+            <img src="logo2.jpg" alt="SWT" width="150" height="150">
         	<h1> Welcome to Senderov Watches - Contact Us </h1>
         </header>
         <nav><ul>
